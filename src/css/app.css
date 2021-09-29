@@ -1,0 +1,16 @@
+/* app global css */
+*{
+  font-size:1.0rem;
+}
+
+.q-table th {
+  font-weight: 500;
+  font-size: 1.0rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.q-table tbody td {
+  font-size: 1.0rem;
+}
